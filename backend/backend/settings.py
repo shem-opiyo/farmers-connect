@@ -35,6 +35,7 @@ DEBUG =  os.environ.get("DEBUG") != "False"
 
 ALLOWED_HOSTS = [
     "your-backend.onrender.com",
+    "farmers-connect-8vrz.onrender.com",
     "localhost",
     "0.0.0.0",
     "127.0.0.1"
