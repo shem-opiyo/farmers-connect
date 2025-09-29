@@ -3,8 +3,8 @@
 ![Farmers Connect Homepage](farmers_connect_homepage.png)
 
 
-## Link to homepage
-<p> <a href="">Visit Farmers Connect Site</a></p>
+<!-- ## Link to homepage
+<p> <a href="">Visit Farmers Connect Site</a></p> -->
 ## Backend setup
 
 ```
